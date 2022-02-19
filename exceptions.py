@@ -1,0 +1,2 @@
+class ProviderInitException(Exception):
+    pass
